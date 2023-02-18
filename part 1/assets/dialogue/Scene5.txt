@@ -1,0 +1,6 @@
+
+You: Looks pretty empty in here. 
+Amy: Yeah, but what's that on the ground? Pick it up and see!
+Some objects can be viewed in detail when clicked on from the inventory.
+You: It's a map, just what we needed! Good eye!
+Amy: Great! Now let's get out of here, this place gives me the creeps.

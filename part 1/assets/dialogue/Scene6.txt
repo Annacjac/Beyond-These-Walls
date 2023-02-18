@@ -1,0 +1,8 @@
+You: Now what?
+
+Amy: Well, we got our map, so let's figure out our route towards the wall. You can look at the map again if you'd like.
+You: If we head north, we can go straight through the woods and across the river, leading us right to the wall.
+Amy: Sounds like a plan. 
+Amy: Oh, and here's a lantern I took from the well. We'll need it to see out there.
+You: Well, looks like we're as prepared as we can be. Are you ready to leave the village?
+Amy: It's worth a shot. Let's go.
