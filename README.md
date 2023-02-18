@@ -12,6 +12,6 @@ Instructions for part 1:
 4. Play up until the Run or Hide scene. You will be unable to continue playing after this.
 
 Instructions for part 2:
-1. After completing part one, "part 2.html" and run it.
+1. After completing part one, download "part 2.html" and run it.
 
 Thank you for playing and enjoy!
